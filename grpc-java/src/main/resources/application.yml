@@ -1,0 +1,13 @@
+server:
+  port: 8080
+
+grpc:
+  server:
+    port: 9090
+#    inProcessName: exampleService
+#    security.enabled: false
+#    transport-security.enabled: false
+#    web.enabled: true
+#    web.cors-allowed-origins: '*'
+#    web.path-prefix: /
+#    web.cors-allowed-methods: 'GET,POST,PUT,DELETE'
